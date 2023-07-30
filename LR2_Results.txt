@@ -1,0 +1,53 @@
+Logistic Regression 2
+
+
+Batch : 
+For Learning Rate 0.01
+ Average
+ Accuracy : 97.9787234042553, Precision : 98.63891535021567, Recall : 98.11965811965811, F1 Score : 98.36214960198325
+ Variance in
+ Accuracy : 1.0638297872340463, Precision : 0.42181542262595856, Recall : 4.207758053911897, F1 Score : 0.7334278630092262
+For Learning Rate 0.001
+ Average
+ Accuracy : 97.02127659574468, Precision : 97.67994571117859, Recall : 97.60683760683762, F1 Score : 97.59415632709496
+ Variance in
+ Accuracy : 2.1050248981439545, Precision : 3.6448925673935384, Recall : 8.590839360070134, F1 Score : 1.4629969001429686
+For Learning Rate 0.0001
+ Average
+ Accuracy : 91.38297872340426, Precision : 95.56353402446199, Recall : 90.76923076923077, F1 Score : 92.65292677827797
+ Variance in
+ Accuracy : 20.30330466274332, Precision : 11.26069216670551, Recall : 95.66805464241367, F1 Score : 19.530979756630064
+
+Stochastic : 
+For Learning Rate 0.01
+ Average
+ Accuracy : 80.95744680851064, Precision : 92.16815038591328, Recall : 78.63247863247864, F1 Score : 80.67165326825561
+ Variance in
+ Accuracy : 186.89452240832952, Precision : 67.37927052811747, Recall : 729.9291401855505, F1 Score : 353.0748559433182
+For Learning Rate 0.001
+ Average
+ Accuracy : 59.042553191489354, Precision : nan, Recall : 58.97435897435897, F1 Score : nan
+ Variance in
+ Accuracy : 433.2277048438206, Precision : nan, Recall : 2322.15647600263, F1 Score : nan
+For Learning Rate 0.0001
+ Average
+ Accuracy : 58.82978723404254, Precision : nan, Recall : 58.97435897435897, F1 Score : nan
+ Variance in
+ Accuracy : 431.5980081484834, Precision : nan, Recall : 2322.15647600263, F1 Score : nan
+
+Mini Batch : 
+For Learning Rate 0.01
+ Average
+ Accuracy : 96.70212765957447, Precision : 97.52580540042676, Recall : 97.26495726495726, F1 Score : 97.33451958113316
+ Variance in
+ Accuracy : 2.421910366681753, Precision : 4.729997990626815, Recall : 10.05186646212287, F1 Score : 1.6946087658387718
+For Learning Rate 0.001
+ Average
+ Accuracy : 90.63829787234042, Precision : 95.24138536197526, Recall : 89.91452991452991, F1 Score : 92.00876920300941
+ Variance in
+ Accuracy : 20.21276595744684, Precision : 13.495419999896114, Recall : 100.05113594857191, F1 Score : 19.910792877714254
+For Learning Rate 0.0001
+ Average
+ Accuracy : 64.46808510638299, Precision : nan, Recall : 62.051282051282044, F1 Score : nan
+ Variance in
+ Accuracy : 408.71435038478944, Precision : nan, Recall : 1968.471035137702, F1 Score : nan
